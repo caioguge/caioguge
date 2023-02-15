@@ -24,6 +24,3 @@
 </div>
 
 ##
-
-### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/caioguge/count.svg" alt ="Loading">
