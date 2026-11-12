@@ -2,7 +2,7 @@
 
 # Caio Gugê
 
-**Mobile developer shipping public health for hundreds of Brazilians, one commit at a time.**
+**Mobile developer turning coffee into apps, one commit at a time ☕📱**
 
 <sub>📍 Criciúma, SC · made in São Paulo 🇧🇷</sub>
 
@@ -11,21 +11,15 @@
 ```ts
 const caio = {
   role: "Mobile Developer @ MS Sistemas",
-  shipping: "ConectaSUS - Cidadão — the SUS in your pocket, live in 20+ municipalities",
-  builtSoFar: [
-    "digital vaccination card",
-    "medical referral tracking",
-    "push notifications (LGPD-friendly)",
-    "family accounts & dependents",
-    "teleconsultation with video",
-  ],
+  focus: ["mobile apps", "APIs", "the infra that keeps them running"],
   stack: {
     mobile: ["React Native", "Expo", "TypeScript"],
-    backend: ["Laravel", "PHP", "Vue.js", "MariaDB", "Redis"],
-    devops: ["Docker", "Gitea Actions", "self-hosted everything"],
+    web: ["Vue.js"],
+    backend: ["Laravel", "PHP", "MariaDB", "Redis"],
+    devops: ["Docker", "CI/CD", "self-hosted everything"],
   },
-  currentlyLearning: ["WebRTC", "automated code review", "English 🇺🇸"],
-  sideQuest: "Meu Invest",
+  currentlyLearning: ["real-time video (WebRTC)", "English 🇺🇸"],
+  sideQuest: "MeuInvest 📈 — a simple app to track my stocks, REITs & crypto",
   askMeAbout: "anything. I'm curious and I like to help.",
 };
 ```
