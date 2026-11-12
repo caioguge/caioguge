@@ -27,6 +27,20 @@ Mobile developer from São Paulo, currently based in Criciúma, SC 🇧🇷. I b
   <img src="https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white" />
 </div>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+  <img height="200" src="./profile/top-langs-light.svg" alt="Caio Gugê Language stats" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+  <img height="200" src="./profile/stats-light.svg" alt="Caio Gugê Github stats" />
+</picture>
+
+</div>
+
 ##
 
 ###### YOU CAN FIND ME ON
